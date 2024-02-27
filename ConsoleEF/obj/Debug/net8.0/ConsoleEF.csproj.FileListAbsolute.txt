@@ -119,3 +119,4 @@ C:\Users\amber\DataPersistenceWeek\ConsoleEF\obj\Debug\net8.0\refint\ConsoleEF.d
 C:\Users\amber\DataPersistenceWeek\ConsoleEF\obj\Debug\net8.0\ConsoleEF.pdb
 C:\Users\amber\DataPersistenceWeek\ConsoleEF\obj\Debug\net8.0\ConsoleEF.genruntimeconfig.cache
 C:\Users\amber\DataPersistenceWeek\ConsoleEF\obj\Debug\net8.0\ref\ConsoleEF.dll
+C:\Users\amber\DataPersistenceWeek\ConsoleEF\obj\Debug\net8.0\ConsoleEF.sourcelink.json
