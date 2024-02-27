@@ -417,4 +417,13 @@ obj/
 /node_modules
 /wwwroot/node_modules
 
+# Ignore .NET Core build output directories
+**/bin/
+**/obj/
+
+# Ignore NuGet cache files
+*.nuget.*
+project.assets.json
+project.nuget.cache
+
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore,csharp,database
